@@ -5,10 +5,10 @@ package d2_ClassesAndObjects;
     all the prime number from 2 to that given number
      */
 
-public class primeNumber {
+public class PrimeNumber {
     public static void main(String[] args) {
 
-        printAllTo(100gi);
+        printAllTo(100);
 
     }
 
